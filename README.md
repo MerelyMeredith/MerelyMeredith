@@ -2,9 +2,9 @@
 
 <p align="left">I'm a Computer Systems Engineering student (i graduate this year :D)<br>
   and contest winner of the university's local Hackathon<br>
-  I have a strong interest in understanding software at a <b>Deeper level</b> and <b>Graphics</b></p>
+  I have a strong interest in understanding software at a <b>Deeper level</b>, <b>Graphics</b> and its power to convey data</p>
 
-<h3 align="left">🗃I’m currently working on: <i>CLI productivity tool</i></h3>
+<h3 align="left">🗃I’m currently working on: <i>Web productivity tool</i></h3>
 
 ###
 
@@ -12,6 +12,7 @@
 
 <ul align="left">
   <li>Low-level programming</li>
+  <li>Web Development</li>
   <li>Performance and optimization</li>
   <li>Systems Programming</li>
   <li>Graphics Programming</li>
@@ -40,10 +41,8 @@
 <h3 align="left">I’m currently learning</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"  height="40" alt="lua logo"   />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  height="40" alt="supabase logo"  />
 </div>
 
 ###
