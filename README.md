@@ -4,7 +4,7 @@
   and contest winner of the university's local Hackathon<br>
   I have a strong interest in understanding software at a <b>Deeper level</b>, <b>Graphics</b> and its power to convey data</p>
 
-<h3 align="left">🗃I’m currently working on: <i>Web productivity tool</i></h3>
+<h3 align="left">🗃I’m currently working on: <i>Cross-plataform note-taking Application</i></h3>
 
 ###
 
